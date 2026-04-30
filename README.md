@@ -5,7 +5,7 @@
 한림대학교 빅데이터전공으로 재학 중이며, 교내 국가 근로 근무를 통해 QA 업무를 경험하였습니다.  
 단순 버그 발견에 그치지 않고 보안 취약점 식별, 회귀 테스트, UX 개선 제안까지 수행하였습니다.
 
-📧 bhyejin420@gmail.com · 🔗 [github.com/data-by-hj](https://github.com/data-by-hj) · 자격증 : ADsP · AIDE 2급
+📧 bhyejin420@gmail.com · 🔗 [github.com/data-by-hj](https://github.com/data-by-hj/qa-portfolio) · 자격증 : ADsP · AIDE 2급
 
 ---
 
