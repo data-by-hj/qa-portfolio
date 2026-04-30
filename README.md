@@ -1,6 +1,7 @@
 # 박혜진
 
 > "작은 불편도 놓치지 않고, 데이터로 증명하고, 품질로 말하는"
+
 <img width="100" alt="민증 사진 압축" src="https://github.com/user-attachments/assets/d670ba2d-13b6-457d-a663-b202b79c1c9b" />
 
 한림대학교 빅데이터전공으로 재학 중이며, 교내 국가 근로 근무를 통해 QA 업무를 경험하였습니다.  
