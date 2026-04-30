@@ -1,7 +1,7 @@
 # 박혜진
 
 > "작은 불편도 놓치지 않고, 데이터로 증명하고, 품질로 말하는"
-<img width="827" height="1063" alt="민증 사진 압축" src="https://github.com/user-attachments/assets/d670ba2d-13b6-457d-a663-b202b79c1c9b" />
+<img width="827" height="1063" alt="민증 사진 압축" src="https://github.com/user-attachments/assets/d670ba2d-13b6-457d-a663-b202b79c1c9b" width="200"/>
 
 한림대학교 빅데이터전공으로 재학 중이며, 교내 국가 근로 근무를 통해 QA 업무를 경험하였습니다.  
 단순 버그 발견에 그치지 않고 보안 취약점 식별, 회귀 테스트, UX 개선 제안까지 수행하였습니다.
